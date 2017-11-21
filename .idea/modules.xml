@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aop-microservice.iml" filepath="$PROJECT_DIR$/aop-microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aop-microservice-config/aop-microservice-config.iml" filepath="$PROJECT_DIR$/aop-microservice-config/aop-microservice-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aop-microservice-config-client/aop-microservice-config-client.iml" filepath="$PROJECT_DIR$/aop-microservice-config-client/aop-microservice-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aop-microservice-register/aop-microservice-register.iml" filepath="$PROJECT_DIR$/aop-microservice-register/aop-microservice-register.iml" />
+    </modules>
+  </component>
+</project>

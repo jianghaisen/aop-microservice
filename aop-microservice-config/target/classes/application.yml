@@ -1,0 +1,16 @@
+server:
+  port: 8888
+spring:
+  application:
+    name: aop-microservice-config
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/jianghaisen/aop-microservice.git #https://github.com/seagrape/SpringCloudConfig.git #
+          search-paths: aop-microservice-config-repo #alan-config-repo #
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="aop-microservice-config" />
+        <module name="aop-microservice-config-client" />
+        <module name="aop-microservice-register" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="aop-microservice" target="1.8" />
+      <module name="aop-microservice-config" target="1.8" />
+      <module name="aop-microservice-config-client" target="1.8" />
+      <module name="aop-microservice-config-repo" target="1.8" />
+      <module name="aop-microservice-register" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

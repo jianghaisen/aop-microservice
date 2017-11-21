@@ -1,0 +1,17 @@
+server:
+  port: 8761
+spring:
+  application:
+    name: aop-microservice-register
+eureka:
+  client:
+    service-url:
+       default-zone: http://localhost:${server.port}/eureka/
+    fetch-registry: false
+    register-with-eureka: false
+  instance:
+    status-page-url-path: /info
+    health-check-url-path: /health
+  server:
+    enable-self-preservation: false
+
