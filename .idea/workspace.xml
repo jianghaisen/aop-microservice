@@ -2,16 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a93a13c-b679-439d-bd60-9c2882b8148b" name="Default" comment="测试刷新">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springcloudconfig" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/aop_microservice_config_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/aop_microservice_config_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aop-microservice-config-client/pom.xml" afterPath="$PROJECT_DIR$/aop-microservice-config-client/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aop-microservice-config-client/src/main/java/com/casic/aop/microservice/AopMicroserviceConfigClientApplication.java" afterPath="$PROJECT_DIR$/aop-microservice-config-client/src/main/java/com/casic/aop/microservice/AopMicroserviceConfigClientApplication.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aop-microservice-config-client/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/aop-microservice-config-client/src/main/resources/application.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aop-microservice-config-client/src/main/resources/bootstrap.yml" afterPath="$PROJECT_DIR$/aop-microservice-config-client/src/main/resources/bootstrap.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aop-microservice-config/aop-microservice-config.iml" afterPath="$PROJECT_DIR$/aop-microservice-config/aop-microservice-config.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aop-microservice-config/pom.xml" afterPath="$PROJECT_DIR$/aop-microservice-config/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aop-microservice-config/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/aop-microservice-config/src/main/resources/application.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aop-microservice-config/target/classes/application.yml" afterPath="$PROJECT_DIR$/aop-microservice-config/target/classes/application.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aop-microservice-config/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/aop-microservice-config/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aop-microservice-config/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/aop-microservice-config/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
     </list>
     <ignored path="$PROJECT_DIR$/aop-microservice-register/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/aop-microservice-config/target/" />
     <ignored path="$PROJECT_DIR$/aop-microservice-config-client/target/" />
     <ignored path="$PROJECT_DIR$/aop-microservice-config-repo/target/" />
+    <ignored path="$PROJECT_DIR$/demo/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,33 +30,48 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="aop-microservice" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/aop-microservice-config/src/main/resources/application.yml">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aop-microservice-config-client/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="10" column="54" lean-forward="false" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+            <state relative-caret-position="368">
+              <caret line="38" column="55" lean-forward="false" selection-start-line="38" selection-start-column="55" selection-end-line="38" selection-end-column="55" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aop-microservice-config-client/pom.xml">
+        <entry file="file://$PROJECT_DIR$/aop-microservice-config/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="30" column="65" lean-forward="false" selection-start-line="30" selection-start-column="65" selection-end-line="30" selection-end-column="65" />
+            <state relative-caret-position="208">
+              <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aop-microservice-register/src/main/resources/application.yml">
+      <file leaf-file-name="Application.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aop-microservice-config/src/main/java/com/casic/aop/microservice/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
-              <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+            <state relative-caret-position="176">
+              <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aop-microservice-config-client/src/main/resources/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="9" column="42" lean-forward="false" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -61,26 +87,42 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="AopMicroserviceConfigClientApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aop-microservice-config-client/src/main/java/com/casic/aop/microservice/AopMicroserviceConfigClientApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="16" column="48" lean-forward="false" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/aop-microservice-config/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aop-microservice-config-client-dev.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aop-microservice-config-repo/aop-microservice-config-client-dev.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16">
+              <caret line="1" column="29" lean-forward="false" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="aop-microservice-register.iml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/aop-microservice-register/aop-microservice-register.iml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="384">
               <caret line="24" column="14" lean-forward="false" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Application.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aop-microservice-config/src/main/java/com/casic/aop/microservice/Application.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#434#435#0" expanded="true" />
-                <element signature="e#496#497#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -112,17 +154,20 @@
         <option value="$PROJECT_DIR$/aop-microservice-config/aop-microservice-config.iml" />
         <option value="$PROJECT_DIR$/aop-microservice-register/pom.xml" />
         <option value="$PROJECT_DIR$/aop-microservice-config/src/main/java/com/casic/microservice/Application.java" />
-        <option value="$PROJECT_DIR$/aop-microservice-config/pom.xml" />
-        <option value="$PROJECT_DIR$/aop-microservice-config-client/pom.xml" />
         <option value="$PROJECT_DIR$/aop-microservice-register/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/aop-microservice-config-client/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/aop-microservice-config-client/src/main/java/com/casic/aop/microservice/AopMicroserviceConfigClientApplication.java" />
-        <option value="$PROJECT_DIR$/aop-microservice-config-client/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/aop-microservice-config-repo/aop-microservice-config-client-prod.yml" />
         <option value="$PROJECT_DIR$/aop-microservice-config-repo/aa.hh" />
         <option value="$PROJECT_DIR$/aop-microservice-config-repo/aa.yml" />
-        <option value="$PROJECT_DIR$/aop-microservice-config-client/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/aop-microservice-config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/aop-microservice-config-client/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/example/demo/DemoApplication.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/aop-microservice-config/src/main/java/com/casic/aop/microservice/Application.java" />
         <option value="$PROJECT_DIR$/aop-microservice-config-repo/aop-microservice-config-client-dev.yml" />
+        <option value="$PROJECT_DIR$/aop-microservice-config-client/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/aop-microservice-config-client/src/main/java/com/casic/aop/microservice/AopMicroserviceConfigClientApplication.java" />
+        <option value="$PROJECT_DIR$/aop-microservice-config/pom.xml" />
         <option value="$PROJECT_DIR$/aop-microservice-config/src/main/resources/application.yml" />
       </list>
     </option>
@@ -149,6 +194,24 @@
   <component name="MavenProjectNavigator">
     <treeState>
       <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="aop-microservice-config Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="aop-microservice-config Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="aop-microservice-config-client" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="aop-microservice-config-client" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="aop-microservice-register Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
@@ -192,90 +255,6 @@
               <item name="aop-microservice" type="b2602c69:ProjectViewProjectNode" />
               <item name="aop-microservice" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="aop-microservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aop-microservice" type="462c0819:PsiDirectoryNode" />
-              <item name="aop-microservice-config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aop-microservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aop-microservice" type="462c0819:PsiDirectoryNode" />
-              <item name="aop-microservice-config" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aop-microservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aop-microservice" type="462c0819:PsiDirectoryNode" />
-              <item name="aop-microservice-config" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aop-microservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aop-microservice" type="462c0819:PsiDirectoryNode" />
-              <item name="aop-microservice-config" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aop-microservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aop-microservice" type="462c0819:PsiDirectoryNode" />
-              <item name="aop-microservice-config" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aop-microservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aop-microservice" type="462c0819:PsiDirectoryNode" />
-              <item name="aop-microservice-config" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice" type="462c0819:PsiDirectoryNode" />
-              <item name="Application" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="aop-microservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aop-microservice" type="462c0819:PsiDirectoryNode" />
-              <item name="aop-microservice-config" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aop-microservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aop-microservice" type="462c0819:PsiDirectoryNode" />
-              <item name="aop-microservice-config-client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aop-microservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aop-microservice" type="462c0819:PsiDirectoryNode" />
-              <item name="aop-microservice-config-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aop-microservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aop-microservice" type="462c0819:PsiDirectoryNode" />
-              <item name="aop-microservice-config-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aop-microservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aop-microservice" type="462c0819:PsiDirectoryNode" />
-              <item name="aop-microservice-config-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aop-microservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aop-microservice" type="462c0819:PsiDirectoryNode" />
-              <item name="aop-microservice-config-repo" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -294,14 +273,15 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -320,33 +300,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.Application (2)">
+  <component name="RunManager" selected="Spring Boot.AopMicroserviceConfigClientApplication">
     <configuration name="AopMicroserviceConfigClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.casic.aop.microservice.AopMicroserviceConfigClientApplication" />
       <module name="aop-microservice-config-client" />
-      <envs />
-    </configuration>
-    <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.casic.microservice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.casic.microservice.Application" />
-      <module name="aop-microservice-config" />
-      <envs />
-    </configuration>
-    <configuration name="Application (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.casic.aop.microservice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.casic.aop.microservice.Application" />
-      <module name="aop-microservice-config" />
       <envs />
     </configuration>
     <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
@@ -358,6 +316,36 @@
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.casic.aop.microservice.Application" />
       <module name="aop-microservice-register" />
+      <envs />
+    </configuration>
+    <configuration name="Application1" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.casic.microservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.casic.aop.microservice.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="aop-microservice-config" />
+      <envs />
+    </configuration>
+    <configuration name="Application2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.casic.aop.microservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.casic.aop.microservice.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="aop-microservice-config" />
+      <envs />
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <module name="demo" />
       <envs />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -441,16 +429,17 @@
       <properties />
       <listeners />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Spring Boot.Application" />
-      <item index="1" class="java.lang.String" itemvalue="Spring Boot.Application (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Spring Boot.AopMicroserviceConfigClientApplication" />
-      <item index="3" class="java.lang.String" itemvalue="Spring Boot.Application (2)" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.AopMicroserviceConfigClientApplication" />
+      <item index="1" class="java.lang.String" itemvalue="Spring Boot.DemoApplication" />
+      <item index="2" class="java.lang.String" itemvalue="Spring Boot.Application" />
+      <item index="3" class="java.lang.String" itemvalue="Spring Boot.Application1" />
+      <item index="4" class="java.lang.String" itemvalue="Spring Boot.Application2" />
     </list>
     <recent_temporary>
       <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Spring Boot.Application (2)" />
-        <item index="1" class="java.lang.String" itemvalue="Spring Boot.Application (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Spring Boot.Application1" />
+        <item index="1" class="java.lang.String" itemvalue="Spring Boot.Application2" />
         <item index="2" class="java.lang.String" itemvalue="Spring Boot.Application" />
       </list>
     </recent_temporary>
@@ -467,7 +456,7 @@
       <updated>1510897872038</updated>
       <workItem from="1510897873465" duration="2593000" />
       <workItem from="1510901231060" duration="833000" />
-      <workItem from="1510902858748" duration="23608000" />
+      <workItem from="1510902858748" duration="42058000" />
     </task>
     <task id="LOCAL-00001" summary="修改测试">
       <created>1511168074882</created>
@@ -497,18 +486,67 @@
       <option name="project" value="LOCAL" />
       <updated>1511170100707</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="测试刷新">
+      <created>1511230361107</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1511230361107</updated>
+    </task>
+    <task id="LOCAL-00006" summary="测试刷新">
+      <created>1511230555447</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1511230555447</updated>
+    </task>
+    <task id="LOCAL-00007" summary="测试刷新">
+      <created>1511247546933</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1511247546933</updated>
+    </task>
+    <task id="LOCAL-00008" summary="测试刷新">
+      <created>1511251172270</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1511251172270</updated>
+    </task>
+    <task id="LOCAL-00009" summary="测试刷新">
+      <created>1511251647682</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1511251647682</updated>
+    </task>
+    <task id="LOCAL-00010" summary="测试刷新">
+      <created>1511252241199</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1511252241199</updated>
+    </task>
+    <task id="LOCAL-00011" summary="测试刷新">
+      <created>1511314996408</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1511314996408</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27034000" />
+    <option name="totallyTimeSpent" value="45484000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11185819" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17542787" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -522,15 +560,15 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5635546" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35545558" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295838" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34168705" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34168705" sideWeight="0.82722515" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34168705" sideWeight="0.5067114" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34168705" sideWeight="0.17277487" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -574,8 +612,6 @@
           <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
-            <element signature="e#496#497#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -682,14 +718,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aop-microservice-config/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="36" column="55" lean-forward="false" selection-start-line="36" selection-start-column="55" selection-end-line="36" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/aop-microservice-register/src/main/java/com/casic/aop/microservice/Application.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -699,14 +727,6 @@
             <element signature="e#346#347#0" expanded="false" />
             <element signature="e#408#409#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aop-microservice-config-client/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="30" column="65" lean-forward="false" selection-start-line="30" selection-start-column="65" selection-end-line="30" selection-end-column="65" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -722,14 +742,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1739">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aop-microservice-register/aop-microservice-register.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="24" column="14" lean-forward="false" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
           <folding />
         </state>
       </provider>
@@ -753,50 +765,64 @@
     <entry file="file://$PROJECT_DIR$/aop-microservice-config-repo/aa.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="16">
-          <caret line="1" column="15" lean-forward="false" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aop-microservice-config/src/main/java/com/casic/aop/microservice/Application.java">
+    <entry file="file://$PROJECT_DIR$/aop-microservice-config/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
-            <element signature="e#496#497#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aop-microservice-config-client/src/main/resources/bootstrap.yml">
+    <entry file="file://$PROJECT_DIR$/demo/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="41" lean-forward="false" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+        <state relative-caret-position="-504">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/demo/DemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="82" lean-forward="false" selection-start-line="1" selection-start-column="82" selection-end-line="1" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aop-microservice-register/aop-microservice-register.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="24" column="14" lean-forward="false" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aop-microservice-config/target/classes/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/aop-microservice-config-repo/aop-microservice-config-client-dev.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        <state relative-caret-position="16">
+          <caret line="1" column="29" lean-forward="false" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aop-microservice-config-client/src/main/java/com/casic/aop/microservice/AopMicroserviceConfigClientApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#676#677#0" expanded="false" />
-            <element signature="e#756#757#0" expanded="false" />
-            <element signature="e#1024#1025#0" expanded="false" />
-            <element signature="e#1045#1046#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -808,10 +834,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/aop-microservice-config-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="38" column="55" lean-forward="false" selection-start-line="38" selection-start-column="55" selection-end-line="38" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aop-microservice-config-client/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="42" lean-forward="false" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aop-microservice-config/src/main/java/com/casic/aop/microservice/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aop-microservice-config-client/src/main/java/com/casic/aop/microservice/AopMicroserviceConfigClientApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="16" column="48" lean-forward="false" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aop-microservice-config/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/aop-microservice-config/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="54" lean-forward="false" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+        <state relative-caret-position="176">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -870,12 +938,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>aop-microservice-register</last-edited>
+          <last-edited>Spring|aop-microservice-config</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

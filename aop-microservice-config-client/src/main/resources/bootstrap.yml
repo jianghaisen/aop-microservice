@@ -1,9 +1,15 @@
 spring:
   cloud:
     config:
-     uri: http://localhost:8888
+     #uri: http://localhost:8888
      profile: dev #对应业务名称的profile
      label: master #当配置文件在git上时为分支名
      name: aop-microservice-config-client
+     discovery:
+       enabled: true
+       service-id: aop-microservice-config
   application:
     name: aop-microservice-config-client  #对应文件的业务名称
+management:
+  security:
+    enabled: false

@@ -17,6 +17,7 @@
       <module name="aop-microservice-config-client" target="1.8" />
       <module name="aop-microservice-config-repo" target="1.8" />
       <module name="aop-microservice-register" target="1.8" />
+      <module name="demo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

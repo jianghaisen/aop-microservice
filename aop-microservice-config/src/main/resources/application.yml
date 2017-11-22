@@ -1,5 +1,5 @@
 server:
-  port: 8888
+  port: 8887
 spring:
   application:
     name: aop-microservice-config
@@ -7,8 +7,8 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/jianghaisen/aop-microservice.git #https://github.com/seagrape/SpringCloudConfig.git #
-          search-paths: aop-microservice-config-repo #alan-config-repo #
+          uri: https://github.com/jianghaisen/aop-microservice.git
+          search-paths: aop-microservice-config-repo
 
 eureka:
   client:
